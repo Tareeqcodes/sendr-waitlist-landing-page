@@ -60,7 +60,7 @@ const Sendr = () => {
               <Send className="w-6 h-6 text-white" />
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
-              Sendr
+              Carday
             </span>
           </div>
         </div>
@@ -136,9 +136,9 @@ const Sendr = () => {
         <div className="max-w-6xl mx-auto">
           <AnimatedCard delay={800}>
             <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold mb-6">What is Sendr?</h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6">What is Carday?</h2>
               <p className="text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
-                Sendr is a peer-to-peer delivery app that connects people who want to send packages 
+                Carday is a peer-to-peer delivery app that connects people who want to send packages 
                 with travelers already heading in that direction. It's like ridesharing, but for packages.
               </p>
             </div>
@@ -170,7 +170,7 @@ const Sendr = () => {
         <div className="max-w-6xl mx-auto">
           <AnimatedCard delay={1600}>
             <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold mb-6">Why Choose Sendr?</h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6">Why Choose Carday?</h2>
             </div>
           </AnimatedCard>
 
@@ -271,7 +271,7 @@ const Sendr = () => {
                 "Trusted by early users worldwide"
               </blockquote>
               <p className="text-slate-400">
-                Join thousands of satisfied users who are already part of the Sendr community
+                Join thousands of satisfied users who are already part of the Carday community
               </p>
             </div>
           </AnimatedCard>
@@ -340,11 +340,11 @@ const Sendr = () => {
               <Send className="w-4 h-4 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
-              Sendr
+              Carday
             </span>
           </div>
           <p className="text-slate-400 text-sm">
-            © 2025 Sendr. Connecting people, delivering possibilities.
+            © 2025 Carday. Connecting people, delivering possibilities.
           </p>
         </div>
       </footer>
